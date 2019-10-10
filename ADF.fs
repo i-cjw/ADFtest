@@ -1,5 +1,3 @@
-namespace Azana
-
 module ADF_test =
     
     open System
